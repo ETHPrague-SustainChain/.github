@@ -5,6 +5,7 @@ SustainChain is a blockchain solution to trace and verify the sustainability cre
 Solidity smart-contracts on Ethereum, React frontend on BOS provided by Near, Assembly script subgraph on The Graph. Build during [ETHPrague Hackathon](https://ethprague.com/)
 
 ### Try it out:
+https://near.org/let45fc.near/widget/SustainChain
 
 ## Problem:
 Current supply chain systems often lack transparency and accountability. Consumers don't have clear visibility into the sustainability practices of the products they purchase, such as whether they are made from recycled materials if they cause deforestation, or if fair labor practices are followed in their production.
